@@ -1,0 +1,24 @@
+﻿@media (min-width: 551px) and (max-width:1279px) /* t */
+{
+
+}
+
+
+@media (min-width: 992px) and (max-width:1279px) /* lt */
+{
+}
+
+
+
+@media (min-width: 551px) and (max-width:991px) /* xt */
+{
+     /*-----welcome-secc----*/
+.welcome-body-con{min-height:800px;}
+.welcome-body-right-sec{position:relative;text-align:center;}
+.floating-image-1{position:absolute;top:0;left:30%;}
+.floating-image-2{position:absolute;top:150px;left:50%;}
+
+}
+
+
+
